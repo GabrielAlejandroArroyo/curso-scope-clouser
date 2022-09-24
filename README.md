@@ -1,1 +1,1 @@
-# curso-scope-clouser
+# curso-scope-clousure
